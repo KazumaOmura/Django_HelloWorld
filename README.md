@@ -1,6 +1,12 @@
 # make Environment(Mac)
 
-Matching youtubers and video editors
+```
+$ usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+$ brew install python3
+$ brew install pyenv
+$ pyenv install –list
+$ pyenv install 3.x.x
+```
 
 # Django Install
 
@@ -82,3 +88,8 @@ helloworld/templates/index.html
 $ python manage.py migrate
 $ python manage.py runserver
 ```
+
+# References
+
+https://kimoba.com/kasegu/install-python3anddjango.html
+https://qiita.com/frosty/items/e545c6258672d88b7707
