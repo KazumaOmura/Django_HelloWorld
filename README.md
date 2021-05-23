@@ -14,6 +14,7 @@ $ pyenv install 3.x.x
 $ cd development/case
 $ mkdir helloworld
 $ cd helloworld
+$ python3 -m venv env
 $ source env/bin/activate
 $ pip install django
 ```
