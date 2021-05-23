@@ -28,7 +28,7 @@ $ django-admin startproject helloworld
 # make App
 
 ```
-$ python manage.py startapp helloworld
+$ python3 manage.py startapp helloworld
 ```
 
 # add Code
